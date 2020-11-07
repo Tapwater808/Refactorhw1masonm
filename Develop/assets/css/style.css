@@ -51,6 +51,15 @@ p {
     margin-left: 25px;
 }
 
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -77,6 +86,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
 /* Condensed redundant code */
 .benefit-lead,
 .benefit-brand,
@@ -111,13 +121,11 @@ p {
     color: #ffffff;
 }
 
-/* Condensed redundant code */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
-
 
 .search-engine-optimization h2,
 .online-reputation-management h2,
@@ -133,6 +141,6 @@ p {
     text-align: center;
 }
 
-.footer h4 {
+.footer h2 {
     font-size: 20px;
 }
