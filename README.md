@@ -8,3 +8,4 @@
 6.  Change title to appropriate website
 
 https://tapwater808.github.io/Refactorhw1masonm/
+![Screenshot](https://github.com/Tapwater808/Refactorhw1masonm/blob/main/Develop/assets/images/Refactor%20Screenshot.jpg)
