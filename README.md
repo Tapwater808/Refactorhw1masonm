@@ -6,3 +6,5 @@
 4.  Inserted alt tags for img files to assist in accessibility
 5.  Condense redundant code
 6.  Change title to appropriate website
+
+https://tapwater808.github.io/Refactorhw1masonm/
